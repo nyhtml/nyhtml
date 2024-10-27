@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/nyhtml/">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=true&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=true&show_icons=true&count_private=false" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/nyhtml/nyhtml/">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=false&show_icons=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=true&show_icons=true&count_private=false" />
   </a>
 </p>
 
