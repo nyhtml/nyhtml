@@ -1,4 +1,6 @@
-![html](https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png" alt="<HTML>" title="<HTML>" width="50%" />
+</p>
 
 ### 👋 Hi there!
 
@@ -10,7 +12,7 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 | 🛠 Specialty | 🌟 Highlights |
 |-------------|---------------|
-| **Technical Support & Troubleshooting** | Windows, macOS, networking, printers  |
+| **Technical Support & Troubleshooting** | Windows, macOS, networking, printers, ADFS/CAS, DocuSign, enterprise endpoints |
 | **Hackintosh Projects** | Experience building custom Hackintosh laptops and desktops |
 | **Web Development & Scripting** | HTML/CSS, WordPress, automation with PowerShell |
 
@@ -34,19 +36,6 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 ---
 
-## 📫 Reach Me
-
-- **Website**: [StephanPringle.com](https://www.stephanpringle.com)  
-- **Blog**: [TechspertHelp.com](https://www.stephanpringle.com/blog/)
-- **Email**: `(email if available)`  
-- **LinkedIn**: *(link if available)*
-
-### 👋 Hi, I'm Steve Pringle
-
-Technical support specialist | Hackintosh enthusiast | Automation geek
-
----
-
 ## 🔧 Featured Projects
 
 | Project | Description |
@@ -54,20 +43,18 @@ Technical support specialist | Hackintosh enthusiast | Automation geek
 | [MOPPI](https://github.com/nyhtml/MOPPI) | Automated installer for Microsoft Office Professional Plus deployments on Windows. |
 | [GHOST](https://github.com/nyhtml/GHOST) | Batch scripting toolkit to streamline Windows setup and maintenance tasks. |
 
-
 ---
 
 ## 📫 Get In Touch
 
-- Website: [stephanpringle.com](https://stephanpringle.com)
-- Blog: [TechspertHelp.com](https://stephanpringle.com)  
-- Email: help@stephanpringle.com  
-- GitHub: [github.com/nyhtml](https://github.com/nyhtml)  
+- Website: [www.stephanpringle.com](https://stephanpringle.com)  
+- Blog: [www.techsperthelp.com](https://stephanpringle.com/blog/)  
+- Vlog: [www.videohooligan.com](https://www.stephanpringle.com/gallery/video/)  
+- Email:   
+- GitHub: [@nyhtml](https://github.com/nyhtml)  
+- LinkedIn: *[@nyhtml](https://www.linkedin.com/in/nyhtml) *
+- Twitter/X: *[@nyhtml](https://twitter.com/nyhtml)*
 
-
-- **Website & Blog**: [StephanPringle.com](https://www.stephanpringle.com)  
-- **Email**: `(email if available)`  
-- **LinkedIn**: *(link if available)*
 ---
 
 ## 📈 GitHub Stats
@@ -87,3 +74,4 @@ Technical support specialist | Hackintosh enthusiast | Automation geek
 ---
 
 *Thanks for stopping by!*
+
