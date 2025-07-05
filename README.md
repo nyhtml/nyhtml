@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png" alt="<HTML>" title="<HTML>" width="50%" />
 </p>
 
-### 👋 Hi there!
+### **<h2> Hi there! <img src="https://i.imgur.com/lzogB7F.gif" width="30px"></h2>**
 
 Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated to solving IT challenges effectively and efficiently.
 
@@ -72,7 +72,12 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/nyhtml">
+    <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
+  </a>
+</p>
+
 ---
 
 *Thanks for stopping by!*
-
