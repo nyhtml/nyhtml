@@ -50,10 +50,11 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 - Website: [www.stephanpringle.com](https://stephanpringle.com)  
 - Blog: [www.techsperthelp.com](https://stephanpringle.com/blog/)  
 - Vlog: [www.videohooligan.com](https://www.stephanpringle.com/gallery/video/)  
-- Email:   
+- Email:
 - GitHub: [@nyhtml](https://github.com/nyhtml)  
-- LinkedIn: *[@nyhtml](https://www.linkedin.com/in/nyhtml) *
-- Twitter/X: *[@nyhtml](https://twitter.com/nyhtml)*
+- LinkedIn: [@nyhtml](https://www.linkedin.com/in/nyhtml)
+- Twitter/X: [@nyhtml](https://twitter.com/nyhtml)
+- YouTube: [@nyhtml](https://www/youtube.com/@nyhtml)
 
 ---
 
