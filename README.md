@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png" alt="<HTML>" title="<HTML>" width="50%" />
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png" alt="<HTML>" title="<HTML>" width="50%" />
+  </a>
 </p>
 
 ### **<h2> Hi there! <img src="https://i.imgur.com/lzogB7F.gif" width="30px"></h2>**
@@ -54,14 +56,14 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 - GitHub: [@nyhtml](https://github.com/nyhtml)  
 - LinkedIn: [@nyhtml](https://www.linkedin.com/in/nyhtml)
 - Twitter/X: [@nyhtml](https://twitter.com/nyhtml)
-- YouTube: [@nyhtml](https://www/youtube.com/@nyhtml)
+- YouTube: [@nyhtml](https://www.youtube.com/@nyhtml)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/nyhtml/nyhtml/">
+  <a href="https://github.com/nyhtml?tab=achievements">
     <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=true&show_icons=true&count_private=false" alt="GitHub Stats" />
   </a>
 </p>
@@ -73,7 +75,7 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 </p>
 
 <p align="center">
-  <a href="https://github.com/nyhtml">
+  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
   </a>
 </p>
