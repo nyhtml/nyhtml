@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/nyhtml?tab=repositories">
     <img src="https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png" alt="<HTML>" title="<HTML>" width="50%" />
   </a>
 </p>
@@ -41,6 +41,7 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 ## 🔧 Featured Projects
 
 | Project | Description |
+
 |---------|-------------|
 | [MOPPI](https://github.com/nyhtml/MOPPI) | Automated installer for Microsoft Office Professional Plus deployments on Windows. |
 | [GHOST](https://github.com/nyhtml/GHOST) | Batch scripting toolkit to streamline Windows setup and maintenance tasks. |
@@ -64,18 +65,8 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 <p align="center">
   <a href="https://github.com/nyhtml?tab=achievements">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=true&show_icons=true&count_private=false" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nyhtml">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyhtml&layout=compact&hide=java" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=true&show_icons=true&count_private=false" alt="GitHub Stats" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyhtml&layout=compact&hide=java" alt="Top Languages" /><br>
     <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
   </a>
 </p>
