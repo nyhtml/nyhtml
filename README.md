@@ -20,6 +20,7 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 ---
 
+
 ## ⚙️ What I’m Up To
 
 - 🔭 Currently building:  
@@ -41,7 +42,6 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 ## 🔧 Featured Projects
 
 | Project | Description |
-
 |---------|-------------|
 | [MOPPI](https://github.com/nyhtml/MOPPI) | Automated installer for Microsoft Office Professional Plus deployments on Windows. |
 | [GHOST](https://github.com/nyhtml/GHOST) | Batch scripting toolkit to streamline Windows setup and maintenance tasks. |
@@ -50,9 +50,9 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 ## 📫 Get In Touch
 
-- Website: [www.stephanpringle.com](https://stephanpringle.com)  
-- Blog: [www.techsperthelp.com](https://stephanpringle.com/blog/)  
-- Vlog: [www.videohooligan.com](https://www.stephanpringle.com/gallery/video/)  
+- Website: [www.stephanpringle.com](https://www.stephanpringle.com)  
+- Blog: [www.techsperthelp.com](https://www.techsperthelp.com)  
+- Vlog: [www.videohooligan.com](https://www.videohooligan.com)  
 - Email:
 - GitHub: [@nyhtml](https://github.com/nyhtml)  
 - LinkedIn: [@nyhtml](https://www.linkedin.com/in/nyhtml)
