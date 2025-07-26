@@ -43,8 +43,8 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 | Project | Description |
 |---------|-------------|
-| [MOPPI](https://github.com/nyhtml/MOPPI) | Automated installer for Microsoft Office Professional Plus deployments on Windows. |
-| [GHOST](https://github.com/nyhtml/GHOST) | Batch scripting toolkit to streamline Windows setup and maintenance tasks. |
+| [GHOST](https://github.com/Sipylus/GHOST) | Batch scripting toolkit to streamline Windows setup and maintenance tasks. |
+| [MOPPI](https://github.com/Sipylus/MOPPI) | Automated installer for Microsoft Office Professional Plus deployments on Windows. |
 
 ---
 
