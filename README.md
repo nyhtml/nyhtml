@@ -65,7 +65,8 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 <p align="center">
   <a href="https://github.com/nyhtml?tab=achievements">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&include_all_commits=true&show_icons=true&count_private=false" alt="GitHub Stats" /><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyhtml&hide_border=false" alt="GitHub Stats" /><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&hide_border=false&include_all_commits=true&show_icons=true&count_private=true" alt="GitHub Stats" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyhtml&layout=compact&hide=java" alt="Top Languages" /><br>
     <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
   </a>
