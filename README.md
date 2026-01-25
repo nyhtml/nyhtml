@@ -50,9 +50,9 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 ## 📫 Get In Touch
 
-- Website: [www.stephanpringle.com](https://www.stephanpringle.com)  
-- Blog: [www.techsperthelp.com](https://www.techsperthelp.com)  
-- Vlog: [www.videohooligan.com](https://www.videohooligan.com)  
+- Website: [StephanPringle.com](https://www.stephanpringle.com)  
+- Blog: [TechspertHelp.com](https://www.techsperthelp.com)  
+- Vlog: [VideoHooligan.com](https://www.videohooligan.com)  
 - Email:
 - GitHub: [@nyhtml](https://github.com/nyhtml)  
 - LinkedIn: [@nyhtml](https://www.linkedin.com/in/nyhtml)
@@ -63,10 +63,8 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/nyhtml?tab=achievements">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyhtml&hide_border=false" alt="GitHub Stats" /><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=nyhtml&hide_border=false&include_all_commits=true&show_icons=true&count_private=true" alt="GitHub Stats" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyhtml&layout=compact&hide=java" alt="Top Languages" /><br>
     <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
   </a>
