@@ -68,7 +68,7 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 | Project | Description |
 |---------|-------------|
-| [N.Q.T.](https://github.com/nyhtml/Network-Query-Tool) | Cloud-based tools for operators and researchers. |
+| [Network Query Tool](https://github.com/nyhtml/Network-Query-Tool) | Cloud-based tools for operators and researchers. |
 | [G.H.O.S.T.](https://github.com/nyhtml/GHOST) | Batch scripting toolkit to streamline Windows setup and maintenance tasks. |
 | [M.O.P.P.I.](https://github.com/nyhtml/MOPPI) | Automated installer for Microsoft Office Professional Plus deployments on Windows. |
 
