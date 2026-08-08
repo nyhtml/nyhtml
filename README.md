@@ -76,10 +76,11 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 ## 📫 Get In Touch
 
-- Website: [NYhtml.com](https://www.stephanpringle.com)  
-- Blog: [TechspertHelp.com](https://www.techsperthelp.com)  
-- Vlog: [VideoHooligan.com](https://www.videohooligan.com)  
-- Email:
+- Website:
+  - [Tech Site](https://www.stephanpringle.com)
+  - [Tech Blog](https://www.techsperthelp.com)
+  - [Tech Vlog](https://www.videohooligan.com)  
+- Email: Mention [@nyhtml](https://github.com/nyhtml) in posts.
 - GitHub: [@nyhtml](https://github.com/nyhtml)  
 - LinkedIn: [@nyhtml](https://www.linkedin.com/in/nyhtml)
 - Twitter/X: [@nyhtml](https://twitter.com/nyhtml)
@@ -91,7 +92,6 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 <p align="left">
   <a href="https://github.com/nyhtml?tab=achievements">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyhtml&layout=compact&hide=java" alt="Top Languages" /><br>
     <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
   </a>
 </p>
