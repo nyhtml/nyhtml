@@ -31,7 +31,7 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 ---
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="100%" height="10%" alt="Coding">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="50%" height="50%" alt="Coding">
 </p>
 
 ---
