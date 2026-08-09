@@ -92,9 +92,22 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 
 <p align="left">
   <a href="https://github.com/nyhtml?tab=achievements">
-    <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nyhtml&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&card_width=500">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyhtml&theme=ambient_gradient&hide_border=false">
+  <br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nyhtml&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=500">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=nyhtml" alt="Views" />
   </a>
 </p>
+
+---
+
+## ❤️ Support my work
+
+I build and maintain my projects after hours. Sponsorship helps me spend more consistent time on development, testing, documentation, and support.
+If [Network Query Tool](https://github.com/nyhtml/Network-Query-Tool) or any of my other projects has been useful to you, you can support my work through [GitHub Sponsors](https://github.com/sponsors/nyhtml).
 
 ---
 
