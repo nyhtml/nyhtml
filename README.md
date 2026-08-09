@@ -107,7 +107,7 @@ Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated t
 ## ❤️ Support my work
 
 I build and maintain my projects after hours. Sponsorship helps me spend more consistent time on development, testing, documentation, and support.
-If [Network Query Tool](https://github.com/nyhtml/Network-Query-Tool) or any of my other projects has been useful to you, you can support my work through [GitHub Sponsors](https://github.com/sponsors/nyhtml).
+If the [Network Query Tool](https://github.com/nyhtml/Network-Query-Tool) or any of my other projects has been useful to you, you can support my work through [GitHub Sponsors](https://github.com/sponsors/nyhtml).
 
 ---
 
