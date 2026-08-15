@@ -1,7 +1,17 @@
 <p align="center">
   <a href="https://github.com/nyhtml?tab=repositories">
-    <img src="https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png" alt="<HTML>" title="<HTML>" width="50%" />
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="50%" height="50%" alt="Coding">
   </a>
+</p>
+
+### **<h2> Hi there! <img src="https://i.imgur.com/lzogB7F.gif" width="30px"></h2>**
+
+Welcome! I’m a **Technical Support Specialist** dedicated to solving IT challenges effectively and efficiently.
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2177262/149684665-0017c492-891a-400d-9820-29a03aebdadb.png" alt="<HTML>" title="<HTML>" width="50%" />
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
@@ -22,16 +32,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-</p>
-
-### **<h2> Hi there! <img src="https://i.imgur.com/lzogB7F.gif" width="30px"></h2>**
-
-Welcome! I’m **Steve Pringle**, a **Technical Support Specialist** dedicated to solving IT challenges effectively and efficiently.
-
----
-
-<p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="50%" height="50%" alt="Coding">
 </p>
 
 ---
